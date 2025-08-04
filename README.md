@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on Open-source projects.<br>🌱 I’m currently learning Nextjs, Docker, AWS.<br>⚡ Fun fact-I love cp💖<br>💬 Happy to help you........
+👯 I’m looking to collaborate on Open-source projects.<br>🌱 I’m currently learning Nextjs, Docker, AWS.<br>⚡ Fun fact-I love working on AI💖<br>💬 Happy to help you........
 
 
 ## 🌐 Socials:
