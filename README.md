@@ -13,19 +13,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-
-
-Technology Stack
-•	Backend: Ruby on Rails, GraphQL
-•	Frontend: React, js, Next.js, TypeScript
-•	Middleware: MySQL, Kafka, Debezium
-•	Infrastructure: AWS, Docker, Kubernetes, Terraform
-•	CI/CD: Circle CI, GitHub Action, Argo CD
-•	Monitoring: Datadog, Rollbar
-•	Task management: JIRA
-•	Communication: Slack, Zoom
-
